@@ -82,12 +82,13 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - The Star (Sheffield): [Revealed: Number of sex offenders missing from South Yorkshire as MP issues identity change warning](https://www.thestar.co.uk/news/crime/revealed-number-of-sex-offenders-missing-from-south-yorkshire-as-mp-issues-identity-change-warning-4047149) *3 March 2023*
 - STV News (Glasgow and West): [Hundreds of Scots sex offenders changed names and dozens disappear](https://news.stv.tv/scotland/hundreds-of-scots-sex-offenders-changed-names-and-dozens-disappear) *1 March 2023*
 
-
 The story featured online and as a bulletin piece across BBC local radio throughout 1 March 2023.
 
-BBC Shared Data Unit senior journalist Alex Homer carried out two-way interviews to discuss the story on .
+BBC News's Midlands correspondent Phil Mackie delivered TV packages for BBC Breakfast and BBC News at 1pm, produced by BBC Shared Data Unit senior journalist Alex Homer, which were also used by the News Channel followed by Donald Findlater appearing as a live guest. Phil Mackie also carried out a two-way interview to discuss the story on the Today programme on BBC Radio 4, and delivered voice pieces for Radio 5Live and Radio2 news summaries. BBC South Today covered the story on their 1830 programme featuring Lauren-Eden Sullivan's experience.
 
-The report made bulletins for BBC Radio .
+Alex Homer carried out two-way interviews to discuss the story on BBC Three Counties Radio, BBC Radio Cumbria, BBC Radio Kent, BBC Radio Humberside, BBC Radio Shropshire and BBC Radio Derby.
+
+Audio clips from our interviews were also carried in bulletins by BBC Radio London, BBC Radio Sheffield, BBC Radio Solent, BBC WM, BBC Radio Somerset, BBC Radio Newcastle and BBC Radio Ulster.
 
 
 ## Other usage
