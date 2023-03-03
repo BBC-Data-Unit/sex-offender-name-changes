@@ -92,9 +92,9 @@ The report made bulletins for BBC Radio .
 
 ## Other usage
 
-- Daily Mail (Scotland)(in print): 517 sex offenders allowed to change their names in 3 years
+- Daily Mail (Scotland)(in print): 517 sex offenders allowed to change their names in 3 years *2 March 2023*
 - National World: [Missing sex offenders: hundreds disappear from police radar across UK amid warning of name-change ‘loophole’](https://www.nationalworld.com/news/crime/missing-sex-offenders-hundreds-disappear-police-radar-uk-warning-name-change-loophole-4046770) *2 March 2023*
-- parliamentlive.tv: [Backbench Business: General debate on changes of name by registered sex offenders](https://parliamentlive.tv/event/index/758574c5-0a0b-4dd0-97c2-4c57d18237bd?in=11:33:16)
+- parliamentlive.tv: [Backbench Business: General debate on changes of name by registered sex offenders](https://parliamentlive.tv/event/index/758574c5-0a0b-4dd0-97c2-4c57d18237bd?in=11:33:16) *2 March 2023*
 - Scottish Daily Express: [Scotland left 'ripe for exploitation' as 517 sex offenders change their names in three years](https://www.scottishdailyexpress.co.uk/news/politics/scotland-left-ripe-exploitation-517-29355030) *1 March 2023*
-- Sky News: [Bill proposed to stop sex offenders changing name] (https://twitter.com/i/status/1631221155242684416)
+- Sky News: [Bill proposed to stop sex offenders changing name](https://twitter.com/i/status/1631221155242684416) *2 March 2023*
 
