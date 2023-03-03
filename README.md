@@ -61,7 +61,7 @@ We produced [this story pack](https://docs.google.com/document/d/1XP7hcFiekBqTj7
 
 # Interviews and quotes
 
-- Della Wright, who waived her legal right to anonymity as a survivor of sex abuse
+- Della Wright (pictured above), who waived her legal right to anonymity as a survivor of sex abuse. Campaigners were calling for a "Della's Law", named after her, to ban sex offenders changing their names once they were added to the register
 - Lauren-Eden Sullivan, who also waived her legal right to anonymity as a survivor of sex abuse
 - Sarah Champion, the Labour MP for Rotherham, who had raised the issue in Parliament that registered sex offenders (RSOs) were changing their names then applying for fresh identity documents
 - Cumbria Constabulary’s Chief Constable Michelle Skeer, National lead for the Management of Registered Sex Offenders
