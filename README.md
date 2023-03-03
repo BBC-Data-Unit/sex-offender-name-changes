@@ -2,7 +2,7 @@
 
 ![](https://ichef.bbci.co.uk/news/976/cpsprodpb/104F4/production/_128640866_dellawright.png.webp)
 
-In March 2023, we [reported](https://www.bbc.co.uk/news/uk-64624921) hundreds of sex offenders across the UK had slipped off the radar of police in a three-year period.
+In March 2023, we worked with BBC News's Midlands & South Bureau to [report](https://www.bbc.co.uk/news/uk-64624921) hundreds of sex offenders across the UK had slipped off the radar of police in a three-year period.
 
 Freedom of Information requests to 45 police forces revealed 729 sex offenders had gone missing or were wanted for arrest from 2019-2021.
 
@@ -42,7 +42,7 @@ Some of the police forces highlighted limitations in the data they could provide
 # What we found 
 
 -	Hundreds of registered sex offenders (729) had either been recorded by police as having gone missing or were wanted for arrest in the previous three complete financial years - 31 of the 45 police forces covering the UK were able to provide those data
-- At least 1,457 registered sex offenders had notified police forces of name changes/aliases in the past three financial years - 21 of the 45 police forces covering the UK were able to provide those data
+- At least 1,457 registered sex offenders had notified police forces of name changes/aliases in the previous three complete financial years - 21 of the 45 police forces covering the UK were able to provide those data
 - The Disclosure & Barring Service (DBS) found 2,190 applicants for checks had criminal records and they had supplied incorrect or missed out personal details such as past names or aliases
 - There had been 5,518 offences committed by registered sex offenders of failing to comply with notification requirements in the previous three complete financial years. 
 - Those offences could have included, but were not limited to: not notifying police of a name change/intention to travel abroad or within the UK/not notifying police of a change of address or circumstances such as beginning to live in a household with a child under the age of 18. 32 of the 45 police forces covering the UK were able to provide those data
@@ -76,8 +76,11 @@ We produced [this story pack](https://docs.google.com/document/d/1XP7hcFiekBqTj7
 
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
 
+- Bury Free Press: [Sex offenders living in Suffolk on the rise, new figures reveal](https://www.suffolknews.co.uk/bury-st-edmunds/news/rise-in-number-of-sex-offenders-living-in-suffolk-9301258/) *1 March 2023*
 - Carmarthenshire News Online: [More than seven hundred sex offenders slip off police radar over three-year period](https://www.carmarthenshirenewsonline.com/nationalnews/more-than-seven-hundred-sex-offenders-slip-off-police-radar-over-three-year-period/) *1 March 2023*
-- 
+- Manchester World: [The Greater Manchester sex offenders who have gone missing in the last year](https://www.manchesterworld.uk/news/hundreds-of-sex-offenders-failed-to-notify-police-correctly-as-alarm-over-them-changing-names-to-evade-the-law-4044329) *3 March 2023*
+- The Star (Sheffield): [Revealed: Number of sex offenders missing from South Yorkshire as MP issues identity change warning](https://www.thestar.co.uk/news/crime/revealed-number-of-sex-offenders-missing-from-south-yorkshire-as-mp-issues-identity-change-warning-4047149) *3 March 2023*
+- STV News (Glasgow and West): [Hundreds of Scots sex offenders changed names and dozens disappear](https://news.stv.tv/scotland/hundreds-of-scots-sex-offenders-changed-names-and-dozens-disappear) *1 March 2023*
 
 
 The story featured online and as a bulletin piece across BBC local radio throughout 1 March 2023.
@@ -89,5 +92,7 @@ The report made bulletins for BBC Radio .
 
 ## Other usage
 
-- 
+- Daily Mail (Scotland)(in print): 517 sex offenders allowed to change their names in 3 years
+- National World: [Missing sex offenders: hundreds disappear from police radar across UK amid warning of name-change ‘loophole’](https://www.nationalworld.com/news/crime/missing-sex-offenders-hundreds-disappear-police-radar-uk-warning-name-change-loophole-4046770) *2 March 2023*
+- Scottish Daily Express: [Scotland left 'ripe for exploitation' as 517 sex offenders change their names in three years](https://www.scottishdailyexpress.co.uk/news/politics/scotland-left-ripe-exploitation-517-29355030) *1 March 2023*
 
