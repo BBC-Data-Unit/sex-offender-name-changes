@@ -101,4 +101,5 @@ Audio clips from our interviews were also carried in bulletins by BBC Radio Lond
 - parliamentlive.tv: [Backbench Business: General debate on changes of name by registered sex offenders](https://parliamentlive.tv/event/index/758574c5-0a0b-4dd0-97c2-4c57d18237bd?in=11:33:16) *2 March 2023*
 - Scottish Daily Express: [Scotland left 'ripe for exploitation' as 517 sex offenders change their names in three years](https://www.scottishdailyexpress.co.uk/news/politics/scotland-left-ripe-exploitation-517-29355030) *1 March 2023*
 - Sky News: [Bill proposed to stop sex offenders changing name](https://twitter.com/i/status/1631221155242684416) *2 March 2023*
+- Wales Online: [Hundreds of sex offenders have gone missing over three years](https://www.walesonline.co.uk/news/uk-news/hundreds-sex-offenders-gone-missing-26358595) *1 March 2023*
 
