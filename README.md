@@ -63,7 +63,7 @@ We produced [this story pack](https://docs.google.com/document/d/1XP7hcFiekBqTj7
 - Della Wright (pictured above), who waived her legal right to anonymity as a survivor of sex abuse. Campaigners were calling for a "Della's Law", named after her, to ban sex offenders changing their names once they were added to the register
 - Lauren-Eden Sullivan, who also waived her legal right to anonymity as a survivor of sex abuse
 - Sarah Champion, the Labour MP for Rotherham, who had raised the issue in Parliament that registered sex offenders (RSOs) were changing their names then applying for fresh identity documents
-- Cumbria Constabulary’s Chief Constable Michelle Skeer, National lead for the Management of Registered Sex Offenders
+- Cumbria Constabulary’s Chief Constable Michelle Skeer, national police lead for the management of registered sex offenders
 - Donald Findlater, Director at the Lucy Faithfull Foundation, a UK-wide charity dedicated solely to preventing child sexual abuse
 - Emily Konstantas, chief executive officer for campaign group The Safeguarding Alliance, whose research led to the scale of these name changes being reported in national newspapers in 2019
 - Scottish Conservative shadow community safety minister Russell Findlay MSP, who had also called for legal changes in the Scottish Parliament to prevent RSOs changing their names
@@ -75,9 +75,17 @@ We produced [this story pack](https://docs.google.com/document/d/1XP7hcFiekBqTj7
 
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
 
+- Birmingham World: [Missing sex offenders: hundreds disappear from police radar across UK amid warning of name-change ‘loophole’](https://www.birminghamworld.uk/news/crime/missing-sex-offenders-hundreds-disappear-police-radar-uk-warning-name-change-loophole-4046770) *5 March 2023*
+- Blackpool Gazette: [The Lancashire sex offenders who have gone missing in the last year](https://www.blackpoolgazette.co.uk/news/crime/the-lancashire-sex-offenders-who-have-gone-missing-in-the-last-year-4050901) *4 March 2023*
 - Bury Free Press: [Sex offenders living in Suffolk on the rise, new figures reveal](https://www.suffolknews.co.uk/bury-st-edmunds/news/rise-in-number-of-sex-offenders-living-in-suffolk-9301258/) *1 March 2023*
 - Carmarthenshire News Online: [More than seven hundred sex offenders slip off police radar over three-year period](https://www.carmarthenshirenewsonline.com/nationalnews/more-than-seven-hundred-sex-offenders-slip-off-police-radar-over-three-year-period/) *1 March 2023*
+- The Irish News: [Hundreds of sex offenders went missing in three-year period](https://www.irishnews.com/news/uknews/2023/03/01/news/hundreds_of_sex_offenders_went_missing_in_three-year_period-3098560/) *1 March 2023*
+- Lancashire Post: [The Lancashire sex offenders who have gone missing in the last year](https://www.lep.co.uk/news/crime/the-lancashire-sex-offenders-who-have-gone-missing-in-the-last-year-4050901) *4 March 2023*
 - Manchester World: [The Greater Manchester sex offenders who have gone missing in the last year](https://www.manchesterworld.uk/news/hundreds-of-sex-offenders-failed-to-notify-police-correctly-as-alarm-over-them-changing-names-to-evade-the-law-4044329) *3 March 2023*
+- Newcastle World: [More than seven hundred sex offenders slipped off the radar of police forces over a three-year period](https://www.newcastleworld.com/news/more-than-seven-hundred-sex-offenders-slipped-off-the-radar-of-police-forces-over-a-three-year-period-4050362) *5 March 2023*
+- Oakham Nub News: [2 of 700 missing sex offenders nationwide from Leicestershire policing areas](https://oakham.nub.news/news/local-news/2-of-700-missing-sex-offenders-nationwide-from-leicestershire-policing-areas-172455) *1 March 2023* 
+- Rotherham Advertiser: [Shocking scale of sex offenders who have slipped off police radar](https://www.rotherhamadvertiser.co.uk/news/view,shocking-scale-of-sex-offenders-who-have-slipped-off-police-radar_44586.htm) *1 March 2023* 
+- The Shields Gazette: [More than seven hundred sex offenders slipped off the radar of police forces over a three-year period](https://www.shieldsgazette.com/news/crime/more-than-seven-hundred-sex-offenders-slipped-off-the-radar-of-police-forces-over-a-three-year-period-4050350) *3 March 2023*
 - The Star (Sheffield): [Revealed: Number of sex offenders missing from South Yorkshire as MP issues identity change warning](https://www.thestar.co.uk/news/crime/revealed-number-of-sex-offenders-missing-from-south-yorkshire-as-mp-issues-identity-change-warning-4047149) *3 March 2023*
 - STV News (Glasgow and West): [Hundreds of Scots sex offenders changed names and dozens disappear](https://news.stv.tv/scotland/hundreds-of-scots-sex-offenders-changed-names-and-dozens-disappear) *1 March 2023*
 
@@ -100,5 +108,6 @@ Audio clips from our interviews were also carried in bulletins by BBC Radio Lond
 - parliamentlive.tv: [Backbench Business: General debate on changes of name by registered sex offenders](https://parliamentlive.tv/event/index/758574c5-0a0b-4dd0-97c2-4c57d18237bd?in=11:38:28) *2 March 2023*
 - Scottish Daily Express: [Scotland left 'ripe for exploitation' as 517 sex offenders change their names in three years](https://www.scottishdailyexpress.co.uk/news/politics/scotland-left-ripe-exploitation-517-29355030) *1 March 2023*
 - Sky News: [Bill proposed to stop sex offenders changing name](https://twitter.com/i/status/1631221155242684416) *2 March 2023*
+- TalkTV: [Hundreds of registered sex offenders have gone missing in three years, police figures show](https://twitter.com/TalkTV/status/1630899283938488323) *1 March 2023*
 - Wales Online: [Hundreds of sex offenders have gone missing over three years](https://www.walesonline.co.uk/news/uk-news/hundreds-sex-offenders-gone-missing-26358595) *1 March 2023*
 
