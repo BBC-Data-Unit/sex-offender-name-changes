@@ -84,16 +84,17 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Manchester World: [The Greater Manchester sex offenders who have gone missing in the last year](https://www.manchesterworld.uk/news/hundreds-of-sex-offenders-failed-to-notify-police-correctly-as-alarm-over-them-changing-names-to-evade-the-law-4044329) *3 March 2023*
 - Newcastle World: [More than seven hundred sex offenders slipped off the radar of police forces over a three-year period](https://www.newcastleworld.com/news/more-than-seven-hundred-sex-offenders-slipped-off-the-radar-of-police-forces-over-a-three-year-period-4050362) *5 March 2023*
 - Oakham Nub News: [2 of 700 missing sex offenders nationwide from Leicestershire policing areas](https://oakham.nub.news/news/local-news/2-of-700-missing-sex-offenders-nationwide-from-leicestershire-policing-areas-172455) *1 March 2023* 
+- The News (Portsmouth): [More than 700 sex offenders slip off police radar over three-year period](https://www.portsmouth.co.uk/news/crime/more-than-700-sex-offenders-slip-off-police-radar-over-three-year-period-4051488) *5 March 2023*
 - Rotherham Advertiser: [Shocking scale of sex offenders who have slipped off police radar](https://www.rotherhamadvertiser.co.uk/news/view,shocking-scale-of-sex-offenders-who-have-slipped-off-police-radar_44586.htm) *1 March 2023* 
 - The Shields Gazette: [More than seven hundred sex offenders slipped off the radar of police forces over a three-year period](https://www.shieldsgazette.com/news/crime/more-than-seven-hundred-sex-offenders-slipped-off-the-radar-of-police-forces-over-a-three-year-period-4050350) *3 March 2023*
 - The Star (Sheffield): [Revealed: Number of sex offenders missing from South Yorkshire as MP issues identity change warning](https://www.thestar.co.uk/news/crime/revealed-number-of-sex-offenders-missing-from-south-yorkshire-as-mp-issues-identity-change-warning-4047149) *3 March 2023*
 - STV News (Glasgow and West): [Hundreds of Scots sex offenders changed names and dozens disappear](https://news.stv.tv/scotland/hundreds-of-scots-sex-offenders-changed-names-and-dozens-disappear) *1 March 2023*
 
-The story featured online and as a bulletin piece across BBC local radio throughout 1 March 2023.
+The story was one of Apple News's top stories of the day and featured online and as a bulletin piece across BBC local radio throughout 1 March 2023.
 
-BBC News's Midlands correspondent Phil Mackie delivered TV packages for BBC Breakfast and BBC News at 1pm, produced by BBC Shared Data Unit senior journalist Alex Homer, which were also used by the News Channel followed by Donald Findlater appearing as a live guest. Phil Mackie also carried out a two-way interview to discuss the story on the Today programme on BBC Radio 4, and delivered voice pieces for Radio 5Live and Radio2 news summaries. BBC South Today covered the story on their 1830 programme featuring Lauren-Eden Sullivan's experience.
+BBC News's Midlands correspondent Phil Mackie delivered TV packages for BBC Breakfast and BBC News at 1pm, produced by BBC Shared Data Unit senior journalist Alex Homer, which were also used by the News Channel followed by Donald Findlater appearing as a live guest. Phil Mackie also carried out a two-way interview to discuss the story on the Today programme on BBC Radio 4, delivered voice pieces for Radio 5Live and Radio2 news summaries and for [BBC Sounds](https://www.bbc.co.uk/sounds/play/p0f5zbln). BBC South Today covered the story on their 1830 programme featuring Lauren-Eden Sullivan's experience.  
 
-Alex Homer carried out two-way interviews to discuss the story on BBC Three Counties Radio, BBC Radio Cumbria, BBC Radio Kent, BBC Radio Humberside, BBC Radio Shropshire and BBC Radio Derby.
+Alex Homer carried out two-way interviews to discuss the report on BBC Three Counties Radio, BBC Radio Cumbria, BBC Radio Kent, BBC Radio Humberside, BBC Radio Shropshire and BBC Radio Derby.
 
 Audio clips from our interviews were also carried in bulletins by BBC Radio London, BBC Radio Sheffield, BBC Radio Solent, BBC WM, BBC Radio Somerset, BBC Radio Newcastle and BBC Radio Ulster.
 
