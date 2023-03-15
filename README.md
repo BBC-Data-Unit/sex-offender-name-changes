@@ -4,7 +4,7 @@
 
 In March 2023, we worked with BBC News's Midlands & South Bureau to [report](https://www.bbc.co.uk/news/uk-64624921) hundreds of sex offenders across the UK had slipped off the radar of police in a three-year period.
 
-Freedom of Information requests to 45 police forces revealed 729 sex offenders had gone missing or were wanted for arrest from 2019-2021.
+Responses to Freedom of Information requests from 31 of the 45 police forces covering the UK, revealed 729 sex offenders had gone missing or were wanted for arrest from 2019-2021. 
 
 Abuse survivors had called on the government to introduce a new law to ban sex offenders changing their names.
 
@@ -78,6 +78,7 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Birmingham World: [Missing sex offenders: hundreds disappear from police radar across UK amid warning of name-change ‘loophole’](https://www.birminghamworld.uk/news/crime/missing-sex-offenders-hundreds-disappear-police-radar-uk-warning-name-change-loophole-4046770) *5 March 2023*
 - Blackpool Gazette: [The Lancashire sex offenders who have gone missing in the last year](https://www.blackpoolgazette.co.uk/news/crime/the-lancashire-sex-offenders-who-have-gone-missing-in-the-last-year-4050901) *4 March 2023*
 - Bury Free Press: [Sex offenders living in Suffolk on the rise, new figures reveal](https://www.suffolknews.co.uk/bury-st-edmunds/news/rise-in-number-of-sex-offenders-living-in-suffolk-9301258/) *1 March 2023*
+- Cambrian News: [Hiding in plain sight: Campaign to stop sex offenders changing their names](https://www.cambrian-news.co.uk/news/hiding-in-plain-sight-campaign-to-stop-sex-offenders-changing-their-names-601434) *15 March 2023*
 - Carmarthenshire News Online: [More than seven hundred sex offenders slip off police radar over three-year period](https://www.carmarthenshirenewsonline.com/nationalnews/more-than-seven-hundred-sex-offenders-slip-off-police-radar-over-three-year-period/) *1 March 2023*
 - The Irish News: [Hundreds of sex offenders went missing in three-year period](https://www.irishnews.com/news/uknews/2023/03/01/news/hundreds_of_sex_offenders_went_missing_in_three-year_period-3098560/) *1 March 2023*
 - Lancashire Post: [The Lancashire sex offenders who have gone missing in the last year](https://www.lep.co.uk/news/crime/the-lancashire-sex-offenders-who-have-gone-missing-in-the-last-year-4050901) *4 March 2023*
