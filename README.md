@@ -106,6 +106,7 @@ Audio clips from our interviews were also carried in bulletins by BBC Radio Lond
 - Daily Mail (Scotland)(in print): 517 sex offenders allowed to change their names in 3 years *2 March 2023*
 - Daily Mirror: [Loophole that allowed sex offender Rose West to change name 'must be closed', MPs told](https://www.mirror.co.uk/news/politics/loophole-allowed-sex-offender-rose-29347630) *1 March 2023*
 - Daily Record: [Hundreds of sex offenders vanished in three year period across UK, shock figures show](https://www.dailyrecord.co.uk/news/scottish-news/hundreds-sex-offenders-vanished-three-29342839) *1 March 2023*
+- Hugh James law firm's podcast: [Hundreds of sex offenders missing in the UK](https://www.hughjames.com/blog/hundreds-of-sex-offenders-missing-in-the-uk) *17 March 2023*
 - National World: [Missing sex offenders: hundreds disappear from police radar across UK amid warning of name-change ‘loophole’](https://www.nationalworld.com/news/crime/missing-sex-offenders-hundreds-disappear-police-radar-uk-warning-name-change-loophole-4046770) *2 March 2023*
 - parliamentlive.tv: [Backbench Business: General debate on changes of name by registered sex offenders](https://parliamentlive.tv/event/index/758574c5-0a0b-4dd0-97c2-4c57d18237bd?in=11:38:28) *2 March 2023*
 - Scottish Daily Express: [Scotland left 'ripe for exploitation' as 517 sex offenders change their names in three years](https://www.scottishdailyexpress.co.uk/news/politics/scotland-left-ripe-exploitation-517-29355030) *1 March 2023*
