@@ -114,5 +114,6 @@ Audio clips from our interviews were also carried in bulletins by BBC Radio Lond
 - Sky News: [Bill proposed to stop sex offenders changing name](https://twitter.com/i/status/1631221155242684416) *2 March 2023*
 - Stop It Now! confidential helpline website: [Should registered sex offenders be allowed to change their names?](https://www.stopitnow.org.uk/home/media-centre/news/should-registered-sex-offenders-be-allowed-to-change-their-names/) *2 March 2023*
 - TalkTV: [Hundreds of registered sex offenders have gone missing in three years, police figures show](https://twitter.com/TalkTV/status/1630899283938488323) *1 March 2023*
+- Today's Family Lawyer: [Police in the UK ‘missed hundreds of sex offenders’](https://todaysfamilylawyer.co.uk/police-in-the-uk-missed-hundreds-of-sex-offenders/) *16 March 2023*
 - Wales Online: [Hundreds of sex offenders have gone missing over three years](https://www.walesonline.co.uk/news/uk-news/hundreds-sex-offenders-gone-missing-26358595) *1 March 2023*
 
