@@ -60,13 +60,13 @@ We produced [this story pack](https://docs.google.com/document/d/1XP7hcFiekBqTj7
 
 # Interviews and quotes
 
-- Della Wright (pictured above), who waived her legal right to anonymity as a survivor of sex abuse. Campaigners were calling for a "Della's Law", named after her, to ban sex offenders changing their names once they were added to the register
-- Lauren-Eden Sullivan, who also waived her legal right to anonymity as a survivor of sex abuse
-- Sarah Champion, the Labour MP for Rotherham, who had raised the issue in Parliament that registered sex offenders (RSOs) were changing their names then applying for fresh identity documents
-- Cumbria Constabulary’s Chief Constable Michelle Skeer, national police lead for the management of registered sex offenders
-- Donald Findlater, Director at the Lucy Faithfull Foundation, a UK-wide charity dedicated solely to preventing child sexual abuse
-- Emily Konstantas, chief executive officer for campaign group The Safeguarding Alliance, whose research led to the scale of these name changes being reported in national newspapers in 2019
-- Scottish Conservative shadow community safety minister Russell Findlay MSP, who had also called for legal changes in the Scottish Parliament to prevent RSOs changing their names
+- Della Wright (she/her) (pictured above), who waived her legal right to anonymity as a survivor of sex abuse. Campaigners were calling for a "Della's Law", named after her, to ban sex offenders changing their names once they were added to the register
+- Lauren-Eden Sullivan (she/her), who also waived her legal right to anonymity as a survivor of sex abuse
+- Sarah Champion (she/her), the Labour MP for Rotherham, who had raised the issue in Parliament that registered sex offenders (RSOs) were changing their names then applying for fresh identity documents
+- Cumbria Constabulary’s Chief Constable Michelle Skeer (she/her), national police lead for the management of registered sex offenders
+- Donald Findlater (he/him), Director at the Lucy Faithfull Foundation, a UK-wide charity dedicated solely to preventing child sexual abuse
+- Emily Konstantas (she/her), chief executive officer for campaign group The Safeguarding Alliance, whose research led to the scale of these name changes being reported in national newspapers in 2019
+- Scottish Conservative shadow community safety minister Russell Findlay MSP (he/him), who had also called for legal changes in the Scottish Parliament to prevent RSOs changing their names
 - A spokesperson for Nacro, a charity which provides a support service to people with criminal records
 - A Home Office spokesperson
 
