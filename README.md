@@ -14,9 +14,13 @@ Calling the situation a scandal, MP Sarah Champion said the key reason so many o
 
 When our report was published, MPs were due to discuss the issue the following day in a Backbench Business Debate in a House of Commons Chamber. 
 
+Our research under the Freedom of Information Act (FOI) was quoted in that debate on the day after publication – it received widespread coverage in the national and regional Press but few outlets quoted all the data cited [during the debate](https://parliamentlive.tv/event/index/758574c5-0a0b-4dd0-97c2-4c57d18237bd?in=11:38:28)
+
+Six months after our report, Home Secretary Suella Braverman [announced a plan to ban sex offenders from changing their name and gender](https://www.thetimes.co.uk/article/uk-sex-offenders-detection-change-name-fsctkkmjt), in her Conservative party conference speech in Manchester on 3 October 2023.
+
 # Methodology
 
-We provided data for each police force area in the UK, sourced through requests made under the Freedom of Information Act (FOI).
+We provided data for each police force area in the UK, sourced through requests made under FOI.
 
 To gain the fullest picture we could as to the extent of this issue, the data was not only sourced from the 45 police forces covering the UK, but also through FOI requests to: 
 
